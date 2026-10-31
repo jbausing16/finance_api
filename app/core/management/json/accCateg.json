@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Assets"
+  },
+  {
+    "id": 2,
+    "name": "Liabilities"
+  },
+  {
+    "id": 3,
+    "name": "Equity"
+  },
+  {
+    "id": 4,
+    "name": "Income / Revenue"
+  },
+  {
+    "id": 5,
+    "name": "Cost of Goods Sold"
+  },
+  {
+    "id": 6,
+    "name": "Expense"
+  },
+  {
+    "id": 7,
+    "name": "Other Income / Other Expense"
+  },
+  {
+    "id": 8,
+    "name": "Non-Posting Accounts"
+  }
+]

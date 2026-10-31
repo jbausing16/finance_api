@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "client": 1,
+    "module": "A/R Invoice Verifier",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "client": 1,
+    "module": "A/R Invoice Approver",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "client": 1,
+    "module": "A/R Credit Memo Verifier",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "client": 1,
+    "module": "A/R Credit Memo Approver",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "client": 1,
+    "module": "A/R Recurring Transactions",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "client": 1,
+    "module": "A/P Invoice Verifier",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "client": 1,
+    "module": "A/P Invoice Approver",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "client": 1,
+    "module": "A/P Credit Memo Verifier",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "client": 1,
+    "module": "A/P Credit Memo Approver",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "client": 1,
+    "module": "A/P Recurring Transactions",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "client": 1,
+    "module": "Incoming Payment Verifier",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "client": 1,
+    "module": "Incoming Payment Approver",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "client": 1,
+    "module": "Outgoing Payment Verifier",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "client": 1,
+    "module": "Outgoing Payment Approver",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "client": 1,
+    "module": "Journal Entry Verifier",
+    "user": "",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "client": 1,
+    "module": "Journal Entry Approver",
+    "user": "",
+    "status": 1
+  }
+]

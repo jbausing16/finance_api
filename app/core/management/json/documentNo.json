@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Journal Entry",
+    "no": ""
+  },
+  {
+    "name": "Journal Entry - Cancelation",
+    "no": ""
+  },
+  {
+    "name": "A/R Invoice",
+    "no": ""
+  },
+  {
+    "name": "A/R Invoice - Cancelation",
+    "no": ""
+  },
+  {
+    "name": "A/R Credit Memo",
+    "no": ""
+  },
+  {
+    "name": "A/R Recurring",
+    "no": ""
+  },
+  {
+    "name": "A/P Invoice",
+    "no": ""
+  },
+  {
+    "name": "A/P Invoice - Cancelation",
+    "no": ""
+  },
+  {
+    "name": "A/P Credit Memo",
+    "no": ""
+  },
+  {
+    "name": "Incoming Payment",
+    "no": ""
+  },
+  {
+    "name": "Incoming Payment - Cancellation",
+    "no": ""
+  },
+  {
+    "name": "Outgoing Payment",
+    "no": ""
+  },
+  {
+    "name": "Outgoing Payment - Cancellation",
+    "no": ""
+  }
+]

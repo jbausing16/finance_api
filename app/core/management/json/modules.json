@@ -1,0 +1,118 @@
+[
+  {
+    "mod": "Dashboard",
+    "sub": "Dashboard"
+  },
+  {
+    "mod": "Reports",
+    "sub": "Balance Sheet"
+  },
+  {
+    "mod": "Reports",
+    "sub": "Profit & Loss"
+  },
+  {
+    "mod": "Reports",
+    "sub": "Cash Flow"
+  },
+  {
+    "mod": "Reports",
+    "sub": "General Ledger"
+  },
+  {
+    "mod": "Reports",
+    "sub": "Financial Performance"
+  },
+  {
+    "mod": "Reports",
+    "sub": "Projection"
+  },
+  {
+    "mod": "Administration",
+    "sub": "Users"
+  },
+  {
+    "mod": "Administration",
+    "sub": "Approval Process"
+  },
+  {
+    "mod": "Administration",
+    "sub": "Automatic Entries"
+  },
+  {
+    "mod": "Administration",
+    "sub": "Posting Periods"
+  },
+  {
+    "mod": "Administration",
+    "sub": "Document Number"
+  },
+  {
+    "mod": "Administration",
+    "sub": "Banks Setup"
+  },
+  {
+    "mod": "Administration",
+    "sub": "A/R Payment Terms"
+  },
+  {
+    "mod": "Financials",
+    "sub": "Chart of Accounts"
+  },
+  {
+    "mod": "Financials",
+    "sub": "Journal Entry"
+  },
+  {
+    "mod": "Financials",
+    "sub": "Journal Report"
+  },
+  {
+    "mod": "Sales - A/R",
+    "sub": "A/R Invoice"
+  },
+  {
+    "mod": "Sales - A/R",
+    "sub": "A/R Credit Memo"
+  },
+  {
+    "mod": "Sales - A/R",
+    "sub": "Recurring Transactions"
+  },
+  {
+    "mod": "Purchasing - A/P",
+    "sub": "A/P Invoice"
+  },
+  {
+    "mod": "Purchasing - A/P",
+    "sub": "A/P Credit Memo"
+  },
+  {
+    "mod": "Purchasing - A/P",
+    "sub": "Recurring Transactions"
+  },
+  {
+    "mod": "Banking",
+    "sub": "Incoming Payment"
+  },
+  {
+    "mod": "Banking",
+    "sub": "Outgoing Payment"
+  },
+  {
+    "mod": "Banking",
+    "sub": "Bank Reconciliation"
+  },
+  {
+    "mod": "Business Partner",
+    "sub": "Business Partner"
+  },
+  {
+    "mod": "Inventory",
+    "sub": "Inventory"
+  },
+  {
+    "mod": "Approval",
+    "sub": "Approval"
+  }
+]

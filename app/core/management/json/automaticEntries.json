@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "client": 1,
+    "module": "A/R Invoice",
+    "type": "A/R Account",
+    "account": ""
+  },
+  {
+    "id": 2,
+    "client": 1,
+    "module": "A/R Invoice",
+    "type": "Income Account",
+    "account": ""
+  },
+  {
+    "id": 3,
+    "client": 1,
+    "module": "A/R Invoice",
+    "type": "Output VAT",
+    "account": ""
+  },
+  {
+    "id": 4,
+    "client": 1,
+    "module": "A/P Invoice",
+    "type": "A/P Account",
+    "account": ""
+  },
+  {
+    "id": 5,
+    "client": 1,
+    "module": "A/P Invoice",
+    "type": "Input VAT",
+    "account": ""
+  },
+  {
+    "id": 6,
+    "client": 1,
+    "module": "Wtax",
+    "type": "1%",
+    "account": ""
+  },
+  {
+    "id": 7,
+    "client": 1,
+    "module": "Wtax",
+    "type": "2%",
+    "account": ""
+  },
+  {
+    "id": 8,
+    "client": 1,
+    "module": "Wtax",
+    "type": "5%",
+    "account": ""
+  },
+  {
+    "id": 9,
+    "client": 1,
+    "module": "Wtax",
+    "type": "10%",
+    "account": ""
+  },
+  {
+    "id": 10,
+    "client": 1,
+    "module": "Wtax",
+    "type": "15%",
+    "account": ""
+  },
+  {
+    "id": 11,
+    "client": 1,
+    "module": "Inventory",
+    "type": "Inventory Account",
+    "account": ""
+  }
+]
